@@ -1,8 +1,8 @@
 # Projeto 1 - Disciplina Introdução à Ciência de Dados
 
-* 1 - Leia os dados com erro novamente, faça a limpeza e remova as duas
+* 1 - Leia os dados com erro, faça a limpeza e remova as duas
 últimas colunas.
-* 2 - Leia os dados com erro novamente e insira a mediana de cada atributo
+* 2 - Leia os dados com erro e insira a mediana de cada atributo
 onde for encontrada NaN.
 * 3 - Conside os dados da Iris e mostre a distribuição de probabilidades de cada
 uma das variáveis após a normalização e padronização.
