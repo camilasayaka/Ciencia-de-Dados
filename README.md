@@ -1,4 +1,4 @@
-# Projeto 1 da Disciplina Introdução à Ciência de Dados
+# Projeto 1 - Disciplina Introdução à Ciência de Dados
 
 * 1 - Leia os dados com erro novamente, faça a limpeza e remova as duas
 últimas colunas.
